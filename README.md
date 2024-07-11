@@ -9,7 +9,7 @@ Oracle Cloud Infrastructure 2021 December 24,2023
 
 (https://catalog-education.oracle.com/pls/certview/sharebadge?id=85BD1D9A5D1721D55263CAB746F9FE6FE319983486FD87D5F27F157B693F1468)
 
-Introduction To Data Science Cloudswift
+Introduction To Data Science CloudSwyft Global Systems, Inc. 2021 November 21, 2021
 
 (https://www.credential.net/4a5c3601-7ceb-4acd-bda1-1793baf2d312)
 
