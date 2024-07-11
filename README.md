@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'am Charles from the Philippines. I really enjoy learning languages and data analytics like Java and MySQL, as well as work in Microsoft Excel. You can check out the following contacts on my Profile page for more information.
+I'am Charles from the Philippines. I really enjoy learning programmming languages and data analytics like Java, HTML, CSS and MySQL, as well as work in Microsoft Excel and making presentations using PowerBI and Tableu. You can check out the following contacts on my Profile page for more information.
 
 ### Education
 BS Computer Science 2020 - Present
